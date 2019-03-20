@@ -22,3 +22,7 @@ A simple library for dealing with nested collections in global app state like re
 (println "\nRemove:")
 (pprint (remove-at app-state "pets/type:pokemon")))
 ```
+
+1. Clone the repo
+2. `cd` into it
+3. Run `clj -m stately.core`
