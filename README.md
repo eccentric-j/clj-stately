@@ -2,7 +2,7 @@
 
 A simple library for dealing with nested collections in global app state like re-frame written in Clojure.
 
-> *DISCLAIMER* This library is in a very alpha state. API may break frequently until release.
+> **DISCLAIMER** *This library is in a very alpha state. API may break frequently until release.*
 
 ## Usage
 
